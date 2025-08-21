@@ -9,6 +9,7 @@ Este proyecto analiza los mensajes de WhatsApp y crea una “matriz de amor”, 
    ```bash
    python -m venv env
 4. Activa el entorno virtual:
+
 (Windows PowerShell):
    ```bash
    .\env\Scripts\activate
