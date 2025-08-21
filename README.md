@@ -6,9 +6,14 @@ Este proyecto analiza los mensajes de WhatsApp y crea una “matriz de amor”, 
 
 1. Coloca tu archivo `chat_whatsapp.csv` en la carpeta del proyecto.
 2. Crea un entorno virtual: ```bash python -m venv env
-3. Activa el entorno virtual: ```bash .\env\Scripts\activate``` (Windows PowerShell) o ```bash source env/bin/activate``` (Linux/macOS)
-4. Instala las dependencias: ```bash pip install -r requirements.txt
-5. Ejecuta el script principal: ```bash
+3. Activa el entorno virtual:
+   ´´´bash
+   .\env\Scripts\activate´´´ (Windows PowerShell) o ```bash source env/bin/activate``` (Linux/macOS)
+5. Instala las dependencias:
+   ´´´bash
+   pip install -r requirements.txt
+7. Ejecuta el script principal:
+   ´´´bash
    python main.py
 ## Ejemplo
 
